@@ -3,7 +3,7 @@
         // StringBuilder sb = new StringBuilder("hello");
         // System.out.println("Initial: " + sb);
         // StringBuffer sb2 = new StringBuffer("hello buffer");
-        
+
         // 1. Append()
         // sb.append("world");
         // System.out.println("append(): " + sb);
@@ -167,7 +167,6 @@
         //     StringBuilder data = new StringBuilder(i);
         //     result.append(data.reverse()).append(" ");
         // }
-
         // System.out.println(result);
     // }
 
